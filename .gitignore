@@ -40,3 +40,4 @@ results/phase2_yolo/runs/
 results/phase2_yolo/**/weights/
 results/phase2_yolo/**/*.pt
 results/phase2_yolo/**/*.pth
+.DS_Store
